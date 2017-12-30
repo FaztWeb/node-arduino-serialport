@@ -6,5 +6,3 @@
 
 # Issues
 - for permissiones: `sudo chmod a+rw /dev/ttyACM0`
-
-https://www.youtube.com/watch?v=d_SoD0iE54Y
